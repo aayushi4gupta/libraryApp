@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "George Orwell",
+    "coverUrl": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "coverUrl": "https://covers.openlibrary.org/b/id/8225631-L.jpg"
+  }
+]
