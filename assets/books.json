@@ -10,5 +10,47 @@
     "title": "Brave New World",
     "author": "Aldous Huxley",
     "coverUrl": "https://covers.openlibrary.org/b/id/8225631-L.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "coverUrl": "https://covers.openlibrary.org/b/id/15095844-L.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "coverUrl": "https://covers.openlibrary.org/b/id/15095637-L.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "coverUrl": "https://ia800404.us.archive.org/view_archive.php?archive=/33/items/l_covers_0010/l_covers_0010_58.zip&file=0010584145-L.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Diary of a Young Girl",
+    "author": "Anne Frank",
+    "coverUrl": "https://covers.openlibrary.org/b/id/15087911-L.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Invisible Man",
+    "author": "H.G. Wells",
+    "coverUrl": "https://ia804605.us.archive.org/view_archive.php?archive=/14/items/l_covers_0011/l_covers_0011_47.zip&file=0011475787-L.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Ignited Minds",
+    "author": "Dr. A.P.J. Abdul Kalam",
+    "coverUrl": "https://ia800404.us.archive.org/view_archive.php?archive=/33/items/l_covers_0010/l_covers_0010_36.zip&file=0010369810-L.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Premchand Collection",
+    "author": "Munshi Premchand",
+    "coverUrl": "https://covers.openlibrary.org/b/id/14927611-L.jpg"
   }
 ]

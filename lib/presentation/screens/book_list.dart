@@ -37,7 +37,6 @@ class BookListScreen extends StatelessWidget {
               return ListTile(
                 leading: CachedNetworkImage(
                   imageUrl: book.coverUrl,
-                  width: 50,
                   fit: BoxFit.cover,
                   placeholder: (context, url) => const CircularProgressIndicator(),
                   errorWidget: (context, url, error) => const Icon(Icons.error),
